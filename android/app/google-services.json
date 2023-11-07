@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076465008610",
+    "project_id": "ambu-book",
+    "storage_bucket": "ambu-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076465008610:android:aabf7e9100f83f2fc543bb",
+        "android_client_info": {
+          "package_name": "com.example.ambubook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076465008610-9uji56ba11p0c1ak512pnsc9vfph87b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1p3xFyCSX-mZsYSwLVVKQE_ujuZL4ZeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076465008610-9uji56ba11p0c1ak512pnsc9vfph87b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
