@@ -1,6 +1,6 @@
 # ambubook
 
-An online ambulance booking platform developed with Flutter and Firebase.
+An online ambulance booking platform developed with Flutter and Cloud Firestore.
 Initially purposed for Limpopo Department of Health. 
 
 Problem: Emergency interfacility transport of patients is currently being booked using a telephone. Often issues such as telephone lines being offline, poor signal, and a language barrier make it difficult to book the correct transport. 
