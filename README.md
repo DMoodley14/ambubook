@@ -19,5 +19,5 @@ Possible Drawbacks:
 - Cybersecurity
 - Relies on uptake from staff
 
-08/11/23 - Still awaiting response from Limpopo DOH
+08/11/23 - Still awaiting a response from Limpopo DOH for approval for pilot at Elim Hospital
 
